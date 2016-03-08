@@ -1,0 +1,28 @@
+U:\C#\Power4\PresentionText\obj\Debug\PresentionText.csprojResolveAssemblyReference.cache
+U:\C#\Power4\PresentionText\bin\Debug\PresentionText.dll
+U:\C#\Power4\PresentionText\bin\Debug\PresentionText.pdb
+U:\C#\Power4\PresentionText\bin\Debug\PowerLib.dll
+U:\C#\Power4\PresentionText\bin\Debug\PowerLib.pdb
+U:\C#\Power4\PresentionText\obj\Debug\PresentionText.dll
+U:\C#\Power4\PresentionText\obj\Debug\PresentionText.pdb
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\bin\Debug\PresentionText.dll
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\bin\Debug\PresentionText.pdb
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\bin\Debug\PowerLib.dll
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\bin\Debug\PowerLib.pdb
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\obj\Debug\PresentionText.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\obj\Debug\PresentionText.dll
+C:\Users\Hugo Dumazeau\Desktop\Power4\PresentionText\obj\Debug\PresentionText.pdb
+U:\C#\Power4Hugo\PresentionText\bin\Debug\PresentionText.dll
+U:\C#\Power4Hugo\PresentionText\bin\Debug\PresentionText.pdb
+U:\C#\Power4Hugo\PresentionText\bin\Debug\PowerLib.dll
+U:\C#\Power4Hugo\PresentionText\bin\Debug\PowerLib.pdb
+U:\C#\Power4Hugo\PresentionText\obj\Debug\PresentionText.csprojResolveAssemblyReference.cache
+U:\C#\Power4Hugo\PresentionText\obj\Debug\PresentionText.dll
+U:\C#\Power4Hugo\PresentionText\obj\Debug\PresentionText.pdb
+F:\premiere annee\C#\Power4Hugo\PresentionText\bin\Debug\PresentionText.dll
+F:\premiere annee\C#\Power4Hugo\PresentionText\bin\Debug\PresentionText.pdb
+F:\premiere annee\C#\Power4Hugo\PresentionText\bin\Debug\PowerLib.dll
+F:\premiere annee\C#\Power4Hugo\PresentionText\bin\Debug\PowerLib.pdb
+F:\premiere annee\C#\Power4Hugo\PresentionText\obj\Debug\PresentionText.csprojResolveAssemblyReference.cache
+F:\premiere annee\C#\Power4Hugo\PresentionText\obj\Debug\PresentionText.dll
+F:\premiere annee\C#\Power4Hugo\PresentionText\obj\Debug\PresentionText.pdb

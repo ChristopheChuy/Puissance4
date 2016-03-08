@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power4", "Power4\Power4.csproj", "{E0EAD707-1595-4FD5-BA1E-2154EE3136CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLib", "PowerLib\PowerLib.csproj", "{FC78C479-9F21-409E-B223-124C163A893D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentionText", "PresentionText\PresentionText.csproj", "{F5BE780D-7C08-4AA2-8E0A-42EDEECC3318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0EAD707-1595-4FD5-BA1E-2154EE3136CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EAD707-1595-4FD5-BA1E-2154EE3136CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EAD707-1595-4FD5-BA1E-2154EE3136CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EAD707-1595-4FD5-BA1E-2154EE3136CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC78C479-9F21-409E-B223-124C163A893D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC78C479-9F21-409E-B223-124C163A893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC78C479-9F21-409E-B223-124C163A893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC78C479-9F21-409E-B223-124C163A893D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BE780D-7C08-4AA2-8E0A-42EDEECC3318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BE780D-7C08-4AA2-8E0A-42EDEECC3318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BE780D-7C08-4AA2-8E0A-42EDEECC3318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BE780D-7C08-4AA2-8E0A-42EDEECC3318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

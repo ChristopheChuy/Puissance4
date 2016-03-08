@@ -1,0 +1,20 @@
+U:\C#\Power4\PowerLib\obj\Debug\PowerLib.csprojResolveAssemblyReference.cache
+U:\C#\Power4\PowerLib\bin\Debug\PowerLib.dll
+U:\C#\Power4\PowerLib\bin\Debug\PowerLib.pdb
+U:\C#\Power4\PowerLib\obj\Debug\PowerLib.dll
+U:\C#\Power4\PowerLib\obj\Debug\PowerLib.pdb
+C:\Users\Hugo Dumazeau\Desktop\Power4\PowerLib\bin\Debug\PowerLib.dll
+C:\Users\Hugo Dumazeau\Desktop\Power4\PowerLib\bin\Debug\PowerLib.pdb
+C:\Users\Hugo Dumazeau\Desktop\Power4\PowerLib\obj\Debug\PowerLib.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Desktop\Power4\PowerLib\obj\Debug\PowerLib.dll
+C:\Users\Hugo Dumazeau\Desktop\Power4\PowerLib\obj\Debug\PowerLib.pdb
+U:\C#\Power4Hugo\PowerLib\obj\Debug\PowerLib.csprojResolveAssemblyReference.cache
+U:\C#\Power4Hugo\PowerLib\obj\Debug\PowerLib.dll
+U:\C#\Power4Hugo\PowerLib\obj\Debug\PowerLib.pdb
+U:\C#\Power4Hugo\PowerLib\bin\Debug\PowerLib.dll
+U:\C#\Power4Hugo\PowerLib\bin\Debug\PowerLib.pdb
+F:\premiere annee\C#\Power4Hugo\PowerLib\bin\Debug\PowerLib.dll
+F:\premiere annee\C#\Power4Hugo\PowerLib\bin\Debug\PowerLib.pdb
+F:\premiere annee\C#\Power4Hugo\PowerLib\obj\Debug\PowerLib.csprojResolveAssemblyReference.cache
+F:\premiere annee\C#\Power4Hugo\PowerLib\obj\Debug\PowerLib.dll
+F:\premiere annee\C#\Power4Hugo\PowerLib\obj\Debug\PowerLib.pdb
